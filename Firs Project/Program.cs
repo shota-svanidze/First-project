@@ -7,8 +7,19 @@ namespace Firs_Project
         static void Main(string[] args)
         {
         
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("add first code");
+            Console.WriteLine("shota svanidze");
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.ReadLine();
+            var x = Console.ReadLine();
+            Console.WriteLine("shota svanidze");
+            Console.WriteLine("x");             
+            Console.ResetColor();
+            Console.WriteLine("shota svanidze");
+            
+            
+
+                
         }
 
 
