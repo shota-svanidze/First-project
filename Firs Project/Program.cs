@@ -16,10 +16,10 @@ namespace Firs_Project
             Console.WriteLine("x");             
             Console.ResetColor();
             Console.WriteLine("shota svanidze");
-            
-            
+            Console.WriteLine("shota svanidze");
 
-                
+
+
         }
 
 
